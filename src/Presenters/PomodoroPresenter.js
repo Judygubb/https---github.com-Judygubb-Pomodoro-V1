@@ -1,5 +1,5 @@
 import { h } from "vue"; // h = createElement in Vue 3
-import PomodoroView from "/src/views/PomodoroView.vue";
+import PomodoroView from "/src/views/TimerView.vue";
 
 console.log("Logging: Presenter");
 
